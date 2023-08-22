@@ -19,7 +19,7 @@
 This tool is based upon [https://github.com/Hridoy99a/Camerahacking) .This is a telegram implementation with extra features than Psi.
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Camerahacking)
+[![Run on Repl.it](https://repl.it/badge/github/Hridoy99a/Camerahacking)](https://repl.it/github/Hridoy99a/Camerahacking)]
  
 #### Video Tutorial 
 
